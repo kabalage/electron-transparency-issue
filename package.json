@@ -1,0 +1,13 @@
+{
+  "name": "electron-transparency-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main-works.js",
+  "scripts": {
+    "start-works": "electron main-works.js",
+    "start-doesnotwork": "electron main-doesnotwork.js"
+  },
+  "devDependencies": {
+    "electron": "2.0.2"
+  }
+}
